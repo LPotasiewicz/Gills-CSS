@@ -21,6 +21,7 @@ body {
 	background-size: cover;
 	width: 120px;
 	height: 60px;
+	border-radius: 5px;
 }
 .main-nav a        { background-color: #3f8abf; }
 .primary-content   { background-color: #caebf6; }
