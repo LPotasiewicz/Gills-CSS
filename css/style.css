@@ -19,6 +19,8 @@ body {
 	background-color: #5fcf80;
 	background-image: url("http://2.bp.blogspot.com/-sZ9i3gVlYgQ/UJdpp39ogdI/AAAAAAAAQ34/1gCiK8YMGTs/s1600/anonymous-guy-fawkes-mask.jpg");
 	background-size: cover;
+	width: 80px;
+	height: 60px;
 }
 .main-nav a        { background-color: #3f8abf; }
 .primary-content   { background-color: #caebf6; }
